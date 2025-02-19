@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **anekantjainsagar@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1jUYOnaWPzWN4GSgWO25X6jtchBLcS5Jp/view?usp=sharing](https://drive.google.com/file/d/1NnKntQW4trbt0rwlHyAZEXnyRj-YcGZW/view))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NnKntQW4trbt0rwlHyAZEXnyRj-YcGZW/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
