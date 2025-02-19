@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anekant28446852" target="blank"><img src="https://img.shields.io/twitter/follow/anekant28446852?logo=twitter&style=for-the-badge" alt="anekant28446852" /></a> </p>
 
-- 🔭 I’m currently working on [consciousleap](https://consciousleap.co/)
+- 🔭 I’m currently working on [Yash Technologies](https://www.yash.com/)
 
 - 🌱 I’m currently learning **Flask, Mysql**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **anekantjainsagar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jUYOnaWPzWN4GSgWO25X6jtchBLcS5Jp/view?usp=sharing](https://drive.google.com/file/d/1jUYOnaWPzWN4GSgWO25X6jtchBLcS5Jp/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1jUYOnaWPzWN4GSgWO25X6jtchBLcS5Jp/view?usp=sharing](https://drive.google.com/file/d/1NnKntQW4trbt0rwlHyAZEXnyRj-YcGZW/view))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
